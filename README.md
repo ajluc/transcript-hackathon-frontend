@@ -32,8 +32,6 @@
 - Insomnia
 - PostreSQL
 - Sequelize
-- Trello
-  - [Trello Board Here](https://trello.com/b/A0jnTUme/interview-prep-group-hackathon)
 
 ---
 

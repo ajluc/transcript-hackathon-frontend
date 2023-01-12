@@ -1,18 +1,27 @@
-# Transcript Hackathon Front
+# gradeGO
 
 ## Date: 11/19/2022
 
-### By: Chris Clarke-Gonzalez, Daniel Shull, Amaya Lucas, Olivia Schwartz
+---
+
+### **Deployed Page:** [gradeGO](https://gradego.herokuapp.com/)
 
 ---
 
+### **Authors:**
 
+#### Chris Clarke-Gonzalez, Daniel Shull, Amaya Lucas, Olivia Schwartz
 
 ---
 
 ### **_Description_**
 
-#### This project is a full-stack application that utilizes Postresql, Express, React and Node. This application has user authentication with JWT that allows a user to login and view their courses, their students and the student's grades/GPA. 
+#### This project is a full-stack application that utilizes Postresql, Express, React and Node. This application has user authentication with JWT that allows a user to login and view their courses, their students and the student's grades/GPA.
+
+<br />
+
+#### **_Link to backend -->_** [gradeGO backend repository](https://github.com/ajluc/transcript-hackathon-backend)
+
 ---
 
 ### **_Technologies Used_**
@@ -25,9 +34,6 @@
 - Sequelize
 - Trello
   - [Trello Board Here](https://trello.com/b/A0jnTUme/interview-prep-group-hackathon)
-- Back End Repository
-  - [Back-End Repository Here](https://github.com/OliviaSchwartz/Interview-Hackathon-Back)
-  - [Front-End Repository Here](https://github.com/OliviaSchwartz/Transcript-Hackathon-Front)
 
 ---
 
@@ -35,40 +41,15 @@
 
 #### Future Getting Started Here
 
+##### A Trello board was used to keep track of development progress and can be viewed [here](https://trello.com/b/Vi9hiVsb/project-3-potlucky).
+
 ---
 
 ### **_Screenshots_**
 
 ---
 
-#### Screenshot 1
-
-
-
----
-
-#### Screenshot 2
-
-
-
----
-
-#### Screenshot 3
-
-
----
-
-
 ### **_Future Updates_**
 
-- [] Future Update 1
-- [] Future Update 2
-- [] Future Update 3
-
----
-
-### **_Credits_**
-
-Credit 1
-Credit 2
-Credit 3
+- [ ] Restyle and populate screenshots (include before)
+- [ ] Adjust functionality to reflect user vs professor types
